@@ -1,0 +1,3 @@
+vārds     uzvārds    gadi
+Daniels    Juksis       11
+Jānis       Goldbergs   19
