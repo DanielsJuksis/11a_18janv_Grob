@@ -12,5 +12,5 @@ def rinda(ceļš):
     except Exception as e:
         print(f"Nevarēja nolasīt failu. Kļūda: {e}")
 
-faila_ceļš = '3.uzdevums.txt'
-rinda(faila_ceļš)
+atrašanās = '3.uzdevums.txt'
+rinda(atrašanās)
